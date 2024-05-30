@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 # Product Listing App
 
 This is a Next.js project that displays a list of products fetched from the [Fake Store API](https://fakestoreapi.com/products). Users can search for products by title and view detailed information about each product.
@@ -9,10 +7,9 @@ This is a Next.js project that displays a list of products fetched from the [Fak
 
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
-- [Usage](#usage)
 - [Learn More](#learn-more)
 - [Contributing](#contributing)
->>>>>>> a0fd71f71ac79029832af31edbbebe367acfc049
+
 
 ## Getting Started
 
@@ -26,16 +23,8 @@ To run the development server:
 
 ## Project Structure
 
-- `pages`: Contains the Next.js pages.
-- `components`: Contains reusable React components.
-- `styles`: Contains global CSS styles.
-
-## Usage
-
-### Components
-
-- **RootLayout**: A layout component that sets up the HTML structure and loads the Inter font.
-- **Child**: A modal component that displays detailed information about a selected product.
+- `pages`: Contains the Next.js pages which contain the whole code.
+- `styles`: Use Tailwind css for styling.
 
 ### Pages
 
