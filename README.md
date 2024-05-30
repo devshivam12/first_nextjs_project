@@ -23,7 +23,7 @@ To run the development server:
 
 ## Project Structure
 
-- `pages`: Contains the Next.js pages which contain the whole code.
+- `pages`: Contains the Next.js pages which contain the whole code. // Redirect to the page you can find the whole project code 
 - `styles`: Use Tailwind css for styling.
 
 ### Pages
